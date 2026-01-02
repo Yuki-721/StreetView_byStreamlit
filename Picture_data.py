@@ -1,4 +1,4 @@
-# --- 2. 地図データ ---
+#画像データ
 MAP_DATA = {
     "point1-1": {
         "image_file": "/Users/tazoeyuki/Applications/development/StreetView/Picture/Point1-1.jpg", 
